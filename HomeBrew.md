@@ -4,4 +4,4 @@
 `/usr/local/Homebrew/Library/Taps/caskroom/homebrew-cask/Casks/`
 
 ## Updating?
-`brew update && brew install `brew outdated``
+`brew update && brew install \`brew outdated\``
